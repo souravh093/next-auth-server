@@ -1,0 +1,4 @@
+MONGODB_URI="mongodb+srv://next-auth:Ytmp0XDNwiVVZXZu@cluster0.epu3mpq.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+PORT=5000
+JWT_SECRET="442f2820-36ea-4fd0-9ed7-98c355d1123c"
+EXPIRES_IN='1d'
